@@ -1,2 +1,2 @@
-# Hello-World
-The First Repository
+此储存库为‘非理学科讨论小组’独有
+随意创作吧！
